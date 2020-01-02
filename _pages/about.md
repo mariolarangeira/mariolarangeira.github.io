@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float:right" src="./images/curacao-fc.jpg" width=350/>
-
-*Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
+<img style="float:right" src="/images/curacao-fc.jpg" width=350/>
+Mario Report is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
 
 In this new  version I gather content material of my professional activities at [Tokyo Tech](https://www.titech.ac.jp) and [IOHK](https://iohk.io). 
 
