@@ -1,14 +1,5 @@
----
-permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<img style="float:right" src="/images/curacao-fc.jpg" width=350>
+I"í<h1>
+<img style="float:right" src="/images/curacao-fc.jpg" width="350" />
 
 *Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
 
@@ -31,3 +22,5 @@ Updates
 - [2018-08-15] Presentation at [Crypto 2018 Rump Session](/portfolio/2018-08-15-portfolio/)
 
 <!-- -->
+</h1>
+:ET
