@@ -26,3 +26,5 @@ Instead you can enjoy the pictures of the event and the Kochi Castle nearby the 
 <img src="/images/posts/2020-01-28/kochi-SCIS-3.jpg" width="500">
 
 <img src="/images/posts/2020-01-28/kochi-SCIS-4.jpg" width="500">
+
+<img src="/images/posts/2020-01-28/kochi-SCIS-5.jpg" width="500">
