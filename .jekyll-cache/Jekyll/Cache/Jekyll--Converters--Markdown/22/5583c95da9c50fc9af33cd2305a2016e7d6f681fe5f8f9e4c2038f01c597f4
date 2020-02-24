@@ -1,0 +1,10 @@
+I"Ú<p>Intensive work on lightweight payment channel protocol.</p>
+
+<p>Max is working on the formalization on a lightweight virtual payment protocol, which does not rely on smart-contracts. He reviewed his whole formalization in the next three seminars:</p>
+
+<ul>
+  <li>today: review of ledger and script functionalities</li>
+  <li>10/31: discussion on interface of the functionality for pairwise protocol</li>
+  <li>11/7:  presentation of the pairwise functionality</li>
+</ul>
+:ET
