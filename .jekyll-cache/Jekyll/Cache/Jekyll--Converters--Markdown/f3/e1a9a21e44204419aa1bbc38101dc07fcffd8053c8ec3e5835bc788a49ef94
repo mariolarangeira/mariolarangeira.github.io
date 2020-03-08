@@ -1,0 +1,12 @@
+I"2<p>Today we had a seminar about anonymous multi-hop locks.</p>
+
+<p>This construction is crucial for construction of payment channels resistant to the wormhole attack, which is caused by the shared pre-image value of the Hash Time Locked Contract (HTLC) among the intermediate nodes of the channel. Briefly in this novel construction the values are generated for each pairwise channel.</p>
+
+<p>Kurazumi have presented the lock mechanism of the work by <a href="https://eprint.iacr.org/2018/472.pdf">Malavolta et al.</a> and how it is constructed from the distributed ECDSA signature protocol.</p>
+
+<p><img src="/images/teaching/2020-03-03/notes-1.jpg" width="400" /></p>
+
+<p><img src="/images/teaching/2020-03-03/notes-2.jpg" width="400" /></p>
+
+<p><img src="/images/teaching/2020-03-03/notes-3.jpg" width="400" /></p>
+:ET
