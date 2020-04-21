@@ -1,0 +1,16 @@
+I"8<p>We had a series of two seminars about threshold signatures.</p>
+
+<p>Threshold cryptosystems system are heavily based on secret sharing schemes. The main idea is that a secret can be broken in n “pieces”, in a way that each piece does not reveal any information of the secret, in fact any number of pieces that are less than t, does not reveal anything about the secret. The threshold is t.</p>
+
+<p>Going back to signature schemes, the secret key, needed to generate the signature, is broken into n pieces, in such a say that any group of participants of size t can jointly generate the signature. A</p>
+
+<p><a href="">Dikshit and Singh</a></p>
+
+<p>Kurazumi have presented the lock mechanism of the work by <a href="https://eprint.iacr.org/2018/472.pdf">Malavolta et al.</a> and how it is constructed from the distributed ECDSA signature protocol.</p>
+
+<p><img src="/images/teaching/2020-03-03/notes-1.jpg" width="400" /></p>
+
+<p><img src="/images/teaching/2020-03-03/notes-2.jpg" width="400" /></p>
+
+<p><img src="/images/teaching/2020-03-03/notes-3.jpg" width="400" /></p>
+:ET

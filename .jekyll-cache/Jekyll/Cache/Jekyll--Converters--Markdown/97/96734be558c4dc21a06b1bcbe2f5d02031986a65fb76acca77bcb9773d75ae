@@ -1,6 +1,0 @@
-I"<p>Seminar on  VDF and and Payment Channels.</p>
-
-<p>Today we have discussed works on VDF like primitive which is based not only in time, but also in memory. Su Xiangyu has been working on delay primitives that relay on a trust generator for puzzles.  Furthermore, he is also considering merging memory as means to based the delay of the function. This is core work of his ongoing master course.</p>
-
-<p>On the payment channels front, Max Jourenko and Kanta Kurazumi are working on a survey of payment channel protocols.</p>
-:ET
