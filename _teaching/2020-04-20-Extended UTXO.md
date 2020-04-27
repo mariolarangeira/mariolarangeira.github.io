@@ -16,7 +16,7 @@ During the Financial Cryptography and Data Security Conference 2020, it was also
 
 We ended the seminar discussing possible developments.
 
-What is new this time is that for the first time we have started seminar on our homes, given the restrictions imposed by the Corona virus on the daily lives of us all. For the first time, i think we did very well. 
+What is new this time is that for the first time we have started seminar on our homes, given the restrictions imposed by the Corona virus on the daily lives of us all. For the first time, I think we did very well. 
 
 Congratulations, Max!
 

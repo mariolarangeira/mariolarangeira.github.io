@@ -1,0 +1,11 @@
+I"á<p>Hail Hydra!</p>
+
+<p>As a follow up of last week seminar on Extended UTXO Model proposed by <a href="http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_25.pdf">Chakravarty et al.</a>, today we took a look on the  <a href="https://eprint.iacr.org/2020/299">Hydra protocol</a>.</p>
+
+<p>This is very convenient because Hidra is based on the Extended UTXO</p>
+
+<p><img src="/images/teaching/2020-04-27/hydra-1.jpg" width="500" /></p>
+
+<p><em>State machine in the Hydra review.</em></p>
+
+:ET
