@@ -23,6 +23,11 @@ I guess the main problem in this platform is the lack of interaction between me 
 
 <em>Our screen during the class today (names are blurred for privacy, of course).</em>
 
+Despite the restrictions, everything went well. I've never had so many people in an online meeting!
+
+
+Excited for the next one on Friday!
+
 Overview
 ======
 Cryptocurrency, as the newest term is used, is a old dream for engineers and researchers, in particular, cryptographers. In the old days several other terms were also coined, as for example, electronic cash and digital money, however is that the most successful term, and piece of engineering, is what we see nowadays in the news: Cryptocurrency.
