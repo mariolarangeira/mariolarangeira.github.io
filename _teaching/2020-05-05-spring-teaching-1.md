@@ -3,7 +3,7 @@ title: "MCS.T415"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-05-05-spring-teaching-1
-venue: "Tokyo Tech, Oookayama Campus"
+venue: "Online"
 date: 2020-05-05
 location: "Tokyo, Japan"
 ---

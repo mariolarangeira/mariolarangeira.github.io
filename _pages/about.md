@@ -19,6 +19,7 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2020-05-13] Seminar: [Decentralized IDs](/teaching/2020-05-13-DID)
 - [2020-05-05] Course: [Blockchain Course](/teaching/2020-05-05-spring-teaching-1)
 - [2020-04-27] Seminar: [Hail Hydra](/teaching/2020-04-27)
 - [2020-04-20] Seminar: [Extended UTXO Model](/teaching/2020-04-20)
@@ -28,9 +29,9 @@ Updates
 - [2020-02-18] Seminar: [Designing Collaterals](/teaching/2020-02-18)!
 - [2020-02-18] Blog: [FC](/posts/2020/02/FC/) in Kota Kinabalu
 - [2020-01-28] Blog: SCIS in [高知](/posts/2020/01/kochi-scis/)!
-- [2020-01-02] Blog: Happy New Year! [Happy 2020!](/posts/2020/01/New Year!/)
 
 <!-- 
+- [2020-01-02] Blog: Happy New Year! [Happy 2020!](/posts/2020/01/New Year!/)
 - [2019-10-01] [Interview](/portfolio/2019-10-01-portfolio/) for Cardano Effect
 - [2019-04-20] [Guest Lecture](/talks/2019-04-20-talk) at University of Washington
 - [2019-04-16] Blog: [Golf](/posts/2019/04/IOHKGolf/)!

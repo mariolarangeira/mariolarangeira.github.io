@@ -3,7 +3,7 @@ title: "Extended UTXO Model: 2020-04-20"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/2020-04-20
-venue: "Tokyo Tech, Oookayama Campus"
+venue: "Online"
 date: 2020-04-20
 location: "Tokyo, Japan"
 ---
