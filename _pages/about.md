@@ -19,6 +19,8 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2020-06-04] Seminar: [Anonymity in Credentials and Ring Signatures](/teaching/2020-06-04-anonymity)
+- [2020-05-28] Seminar: [Stake Pools](/teaching/2020-05-28-stakepool)
 - [2020-05-21] Seminar: [Anonymous Credential](/teaching/2020-05-21-credentials)
 - [2020-05-13] Seminar: [Decentralized IDs](/teaching/2020-05-13-DID)
 - [2020-05-05] Course: [Blockchain Course](/teaching/2020-05-05-spring-teaching-1)
@@ -27,11 +29,11 @@ Updates
 - [2020-04-07] Blog: [Chat with the Brazilian Embassy in Tokyo](/posts/2020/04/Embassy/)
 - [2020-03-10/17] Seminar: [(Weighted) Threshold Signatures](/teaching/2020-03-10)
 - [2020-03-03] Seminar: [Anonymous Multi-hop Locks](/teaching/2020-03-03)
-- [2020-02-18] Seminar: [Designing Collaterals](/teaching/2020-02-18)!
-- [2020-02-18] Blog: [FC](/posts/2020/02/FC/) in Kota Kinabalu
 
 
 <!-- 
+- [2020-02-18] Seminar: [Designing Collaterals](/teaching/2020-02-18)!
+- [2020-02-18] Blog: [FC](/posts/2020/02/FC/) in Kota Kinabalu
 - [2020-01-28] Blog: SCIS in [高知](/posts/2020/01/kochi-scis/)!
 - [2020-01-02] Blog: Happy New Year! [Happy 2020!](/posts/2020/01/New Year!/)
 - [2019-10-01] [Interview](/portfolio/2019-10-01-portfolio/) for Cardano Effect
