@@ -20,5 +20,5 @@ Next week, Mizuuchi will continue his seminar.
 
 <img src="/images/teaching/2020-06-04/anon-2.png" width="400">
 
-<img src="/images/teaching/2020-06-04/anon-1.png" width="400">
+<img src="/images/teaching/2020-06-04/anon-3.png" width="400">
 
