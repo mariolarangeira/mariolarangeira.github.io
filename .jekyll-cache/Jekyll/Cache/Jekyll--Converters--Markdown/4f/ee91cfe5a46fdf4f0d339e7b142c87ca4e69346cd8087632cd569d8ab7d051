@@ -1,0 +1,12 @@
+I"©<p>Times of COVID! This month we had our yearly summit! And It was a virtual one!</p>
+
+<p>We had over 10,000 attendees and several parallel tracks in the Cardano Summit. Me and Dimitris Karakostas presented our work on wallets and account management in PoS setting. My share of the presentation was to prepare the audience with a quick outline of the differences of the PoW and PoS, and the problems we tackled when devising our framework. Dimitris presented the details of our solution and the wallet modes we that our framework supports.</p>
+
+<p>This paper is publicly available on <a href="https://eprint.iacr.org/2020/525">eprint</a> and scheduled to be presented at <a href="https://scn.unisa.it/index.php/accepted-papers/">SCN 2020</a>. We were very happy when we got the acceptance email, but not so happy when we realized we would not attend a conference there. Specially because it was turned into a virtual event, which is understandable, yet frustrating.</p>
+
+<p>Needless to say there was some expectation on our presentation, and the next one for the game theory of stake pools by Lars and Katerina because they will be live in a concrete system with the Shelley update by the end of the month. Staking is expected by the Cardano community and it will turn the system very decentralized.  In the end of the presentation we had a Q&amp;A session with very interesting questions, from how to choose a stake pool, to details on the delegation mechanism and stake pledge of pool operators. The people in the audience had done their homework!</p>
+
+<p><img src="/images/teaching/2020-06-18/tobepublished.png" width="400" /></p>
+
+<p><img src="/images/teaching/2020-06-18/su-2.png" width="400" /></p>
+:ET
