@@ -19,6 +19,8 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2020-08-06] Seminar: [More Anonymous Credential](/teaching/2020-08-06-ACS-Variants)
+- [2020-07-30] Seminar: [Eltoo](/teaching/2020-07-30-Eltoo)
 - [2020-07-21] Talk: [UFPel Seminar](/talks/2020-07-21-talk)
 - [2020-07-16] Seminar: [ACS Revisited](/teaching/2020-07-16-ACS-revisited)
 - [2020-07-09] Seminar: [MPC made easy](/teaching/2020-07-09-MPC-Easy)
@@ -27,11 +29,12 @@ Updates
 - [2020-06-11] Seminar: [Anonymity in IBE](/teaching/2020-06-11-ibe)
 - [2020-06-04] Seminar: [Anonymity in Credentials and Ring Signatures](/teaching/2020-06-04-anonymity)
 - [2020-05-28] Seminar: [Stake Pools](/teaching/2020-05-28-stakepool)
-- [2020-05-21] Seminar: [Anonymous Credential](/teaching/2020-05-21-credentials)
-- [2020-05-13] Seminar: [Decentralized IDs](/teaching/2020-05-13-DID)
+
 
 
 <!--
+- [2020-05-21] Seminar: [Anonymous Credential](/teaching/2020-05-21-credentials)
+- [2020-05-13] Seminar: [Decentralized IDs](/teaching/2020-05-13-DID)
 - [2020-05-05] Course: [Blockchain Course](/teaching/2020-05-05-spring-teaching-1)
 - [2020-04-27] Seminar: [Hail Hydra](/teaching/2020-04-27)
 - [2020-04-20] Seminar: [Extended UTXO Model](/teaching/2020-04-20)
