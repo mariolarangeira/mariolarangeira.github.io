@@ -1,4 +1,4 @@
-I"õt
+I"Åv
 <p><img src="/images/work-desk.jpg" alt="" /></p>
 
 <h1 id="education">Education</h1>
@@ -1343,7 +1343,7 @@ Teaching and Seminars
     
     <h3 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/teaching/2020-07-16-ACS-revisited" rel="permalink">ACS Revisited
+        <a href="http://localhost:4000/teaching/2020-07-30-Eltoo" rel="permalink">Eltoo
 </a>
       
     </h3>
@@ -1366,7 +1366,30 @@ Teaching and Seminars
     
     <h3 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/teaching/2020-07-30-Eltoo" rel="permalink">Eltoo
+        <a href="http://localhost:4000/teaching/2020-08-06-ACS-Variants" rel="permalink">More Anonymous Credential
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-09-10-atomic-multi-channels" rel="permalink">Atomic Multi-channels Updates
 </a>
       
     </h3>

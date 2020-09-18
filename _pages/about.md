@@ -19,6 +19,8 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2020-09-14] Talk: [Account Management in PoS](/publication/2020-09-14-account-management)
+- [2020-09-10] Seminar: [Atomic Multi-channels Updates](/teaching/2020-09-10-atomic-multi-channels)
 - [2020-08-06] Seminar: [More Anonymous Credential](/teaching/2020-08-06-ACS-Variants)
 - [2020-07-30] Seminar: [Eltoo](/teaching/2020-07-30-Eltoo)
 - [2020-07-21] Talk: [UFPel Seminar](/talks/2020-07-21-talk)
@@ -27,12 +29,12 @@ Updates
 - [2020-07-03] Talk: [Cardano Summit](/talks/2020-07-03-talk)
 - [2020-06-18] Seminar: [Time Lock Puzzles](/teaching/2020-06-18-time-lock-puzzle)
 - [2020-06-11] Seminar: [Anonymity in IBE](/teaching/2020-06-11-ibe)
-- [2020-06-04] Seminar: [Anonymity in Credentials and Ring Signatures](/teaching/2020-06-04-anonymity)
-- [2020-05-28] Seminar: [Stake Pools](/teaching/2020-05-28-stakepool)
 
 
 
 <!--
+- [2020-06-04] Seminar: [Anonymity in Credentials and Ring Signatures](/teaching/2020-06-04-anonymity)
+- [2020-05-28] Seminar: [Stake Pools](/teaching/2020-05-28-stakepool)
 - [2020-05-21] Seminar: [Anonymous Credential](/teaching/2020-05-21-credentials)
 - [2020-05-13] Seminar: [Decentralized IDs](/teaching/2020-05-13-DID)
 - [2020-05-05] Course: [Blockchain Course](/teaching/2020-05-05-spring-teaching-1)

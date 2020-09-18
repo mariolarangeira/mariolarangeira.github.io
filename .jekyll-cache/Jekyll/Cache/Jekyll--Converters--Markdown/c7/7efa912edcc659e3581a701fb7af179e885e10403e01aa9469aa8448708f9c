@@ -1,4 +1,4 @@
-I"Xs
+I"y
 <p><img src="/images/work-desk.jpg" alt="" /></p>
 
 <h1 id="education">Education</h1>
@@ -49,6 +49,29 @@
 
 <h1 id="publications">Publications</h1>
 <ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2020-09-14-account-management" rel="permalink">Account Management in PoS
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Dimitris Karakostas, Aggelos Kiayias and Mario Larangeira. (2020). &quot; Account Management in Proof of Stake Ledgers.&quot; <i>SCN 2020</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
     
 
 
@@ -1343,7 +1366,53 @@ Teaching and Seminars
     
     <h3 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/teaching/2020-07-16-ACS-revisited" rel="permalink">ACS Revisited
+        <a href="http://localhost:4000/teaching/2020-07-30-Eltoo" rel="permalink">Eltoo
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-08-06-ACS-Variants" rel="permalink">More Anonymous Credential
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-09-10-atomic-multi-channels" rel="permalink">Atomic Multi-channels Updates
 </a>
       
     </h3>
