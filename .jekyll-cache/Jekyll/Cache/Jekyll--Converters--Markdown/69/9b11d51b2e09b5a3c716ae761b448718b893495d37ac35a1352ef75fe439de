@@ -1,37 +1,23 @@
----
-permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I"‚<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+<em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
-<img style="float:right" src="/images/curacao-fc.jpg" width="350">
-*Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
+<p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
 
-In this new  version I gather content material of my professional activities at [Tokyo Tech](https://www.titech.ac.jp) and [IOHK](https://iohk.io). 
+<p>In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the <em>Dois Gugol Blog</em> (in English: <em>Two Googol</em>).</p>
 
-In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the *Dois Gugol Blog* (in English: *Two Googol*).
-
-
-
-Updates
------
-- [2020-09-18] Channel: [SCN2020 Video](/portfolio/2020-09-14-SCN/)
-- [2020-09-18] Channel: [University of Pelotas](/portfolio/2020-06-21-federal/)
-- [2020-09-14] Talk: [Account Management in PoS](/publication/2020-09-14-account-management)
-- [2020-09-10] Seminar: [Atomic Multi-channels Updates](/teaching/2020-09-10-atomic-multi-channels)
-- [2020-08-06] Seminar: [More Anonymous Credential](/teaching/2020-08-06-ACS-Variants)
-- [2020-07-30] Seminar: [Eltoo](/teaching/2020-07-30-Eltoo)
-- [2020-07-21] Talk: [UFPel Seminar](/talks/2020-07-21-talk)
-- [2020-07-16] Seminar: [ACS Revisited](/teaching/2020-07-16-ACS-revisited)
-- [2020-07-09] Seminar: [MPC made easy](/teaching/2020-07-09-MPC-Easy)
-- [2020-07-03] Talk: [Cardano Summit](/talks/2020-07-03-talk)
-
-
-
+<h2 id="updates">Updates</h2>
+<ul>
+  <li>[2020-09-18] Channel: <a href="/portfolio/2020-09-14-SCN/">SCN2020 Video</a></li>
+  <li>[2020-09-18] Channel: <a href="/portfolio/2020-06-21-federal/">University of Pelotas</a></li>
+  <li>[2020-09-14] Talk: <a href="/publication/2020-09-14-account-management">Account Management in PoS</a></li>
+  <li>[2020-09-10] Seminar: <a href="/teaching/2020-09-10-atomic-multi-channels">Atomic Multi-channels Updates</a></li>
+  <li>[2020-08-06] Seminar: <a href="/teaching/2020-08-06-ACS-Variants">More Anonymous Credential</a></li>
+  <li>[2020-07-30] Seminar: <a href="/teaching/2020-07-30-Eltoo">Eltoo</a></li>
+  <li>[2020-07-21] Talk: <a href="/talks/2020-07-21-talk">UFPel Seminar</a></li>
+  <li>[2020-07-16] Seminar: <a href="/teaching/2020-07-16-ACS-revisited">ACS Revisited</a></li>
+  <li>[2020-07-09] Seminar: <a href="/teaching/2020-07-09-MPC-Easy">MPC made easy</a></li>
+  <li>[2020-07-03] Talk: <a href="/talks/2020-07-03-talk">Cardano Summit</a></li>
+</ul>
 
 <!--
 - [2020-06-18] Seminar: [Time Lock Puzzles](/teaching/2020-06-18-time-lock-puzzle)
@@ -58,3 +44,4 @@ Updates
 - [2019-01-25] Our group had five presentations at [SCIS 2019](/talks/2019-01-25-talk)
 - [2019-01-22]  Panel on cutting edge research on [Binance Event](/talks/2019-01-22-talk)
 - [2018-08-15] Presentation at [Crypto 2018 Rump Session](/portfolio/2018-08-15-portfolio/)-->
+:ET
