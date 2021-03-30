@@ -1,0 +1,437 @@
+I"�6
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2020-12-15-virtualchannelsCANS" rel="permalink">Lightweight Virtual Channels
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>19th International Conference on Cryptology and Network Security</i>, 2020 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Security of wallets in proof-of-stake setting in the presence of stake pools.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Dimitris Karakostas, Aggelos Kiayias and Mario Larangeira. (2020). &quot; Account Management in Proof of Stake Ledgers.&quot; <i>SCN 2020</i>. <a href="https://eprint.iacr.org/2020/525"><u>https://eprint.iacr.org/2020/525</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2020-09-14-account-management" rel="permalink">Account Management in PoS
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>12th Conference on Security and Cryptography for Networks</i>, 2020 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Security of wallets in proof-of-stake setting in the presence of stake pools.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Dimitris Karakostas, Aggelos Kiayias and Mario Larangeira. (2020). &quot; Account Management in Proof of Stake Ledgers.&quot; <i>SCN 2020</i>. <a href="https://eprint.iacr.org/2020/525"><u>https://eprint.iacr.org/2020/525</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-02-18-royale" rel="permalink">Royale
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Financial Cryptography</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A general and universally composable protocol for card games on blockchain.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Bernardo David, Rafael Dowsley and Mario Larangeira. (2019). &quot; Royale: A Framework for Universally Composable Card Games with Financial Rewards and Penalties Enforcement.&quot; <i>FC 2019</i>. <a href="https://eprint.iacr.org/2018/157"><u>https://eprint.iacr.org/2018/157</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-5" rel="permalink">Account Management and Stake Pools in Proof of Stake Ledgers
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A foundational work on the definition of accounts and stake pools in Proof-of-stake based ledgers.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  Dimitris Karakosstas, Aggelos Kiayias, Mario Larangeira. (2019). &quot; Account Management and Stake Pools in Proof of Stake Ledgers.&quot; <i>SCIS 2019</i>. <a href="https://www.iwsec.org/scis/2019/program.html"><u>https://www.iwsec.org/scis/2019/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-4" rel="permalink">A Timeout Anonymous Payment Channel for Decentralized Currencies
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A variant of the Anonymous payment channel (APC) definition which includes a time-out parameter.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  Kanta Kurazumi, Maxim Jourenko, Mario Larangeira, and Keisuke Tanaka. (2019). &quot; A Timeout Anonymous Payment Channel for Decentralized Currencies.&quot; <i>SCIS 2019</i>. <a href="https://www.iwsec.org/scis/2019/program.html"><u>https://www.iwsec.org/scis/2019/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-3" rel="permalink">Lightweight Virtual Payment Channels
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A lighweight Virtual Payment Protocols which can be implemented on Bitcoin</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  Maxim Jourenko, Keisuke Tanaka and Mario Larangeira. (2019). &quot;Lightweight Virtual Payment Channels.&quot; <i>SCIS 2019</i>. <a href="https://www.iwsec.org/scis/2019/program.html"><u>https://www.iwsec.org/scis/2019/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-2" rel="permalink">Notes on Offchain Protocols
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A survey on off-chain protocol ranging from payment channels, to routing, commit chains, and etc.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  Maim Jourenko, Kanta Kurazumi, Mario Larangeira and Keisuke Tanaka. (2019). &quot; Notes on Offchain Protocols.&quot; <i>SCIS 2019</i>. <a href="https://www.iwsec.org/scis/2019/program.html"><u>https://www.iwsec.org/scis/2019/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-1" rel="permalink">Verifiable Sequential Work with Trusted Generator
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2019 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>In this paper, we define a VDF variant, which we denote by verifiable sequential work (VSW)</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  Xiangyu Su, Mario Larangeira and Keisuke Tanaka. (2019). &quot; Verifiable Sequential Work with Trusted Generator.&quot; <i>SCIS 2019</i>. <a href="https://www.iwsec.org/scis/2019/program.html"><u>https://www.iwsec.org/scis/2019/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2017-09-14-kaleidoscope" rel="permalink">Kaleidoscope
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Financial Cryptography</i>, 2018 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>An efficient blockchain based protocol for poker.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; Kaleidoscope: An Efficient Poker Protocol with Payment Distribution and Penalty Enforcement.&quot; <i>FC 2018</i>. <a href="https://eprint.iacr.org/2017/899"><u>https://eprint.iacr.org/2017/899</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-06-01-MARS" rel="permalink">MARS
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Cryblock</i>, 2018 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A blockchain based incentive framework for routing systems.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; MARS: Monetized Ad-Hoc Routing Systems.&quot; <i>Cryblock</i>. <a href="https://dl.acm.org/doi/abs/10.1145/3211933.3211948?download=true"><u>https://dl.acm.org/doi/abs/10.1145/3211933.3211948?download=true</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-03-30-21" rel="permalink">Bringing down the complexity
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>ACISP</i>, 2018 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>This work identifies a new class of card games which allow us to developed highly efficient card game protocols.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; 21 - Bringing Down the Complexity: Fast Composable Protocols for Card Games Without Secret State.&quot; <i>ACISP 2018</i>. <a href="https://eprint.iacr.org/2018/303"><u>https://eprint.iacr.org/2018/303</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-01-23-SCIS" rel="permalink">カレイドスコープとロイヤーレ：ポーカーと一般的なカードゲームのブロックチェーンのプロトコル
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2018 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Here we review Kaleidoscope and Royale two protocols for card games over blockchains.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  マリオラランジェラ、ベルナルドデヴィッド、ラファエルドスレイ. (2018). &quot; カレイドスコープとロイヤーレ：ポーカーと一般的なカードゲームのブロックチェーンのプロトコル.&quot; <i>SCIS 2018</i>. <a href="https://www.iwsec.org/scis/2018/program.html"><u>https://www.iwsec.org/scis/2018/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2017-01-24-SCIS" rel="permalink">CryptoNoteに対するサイズ効率化
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>SCIS</i>, 2017 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>In this paper, we define a VDF variant, which we denote by verifiable sequential work (VSW)</p>
+</p>
+    
+    
+    
+      <p>Recommended citation:  原　啓祐, Mario Larangeira、圭介田中. (2017). &quot; CryptoNoteに対するサイズ効率化.&quot; <i>SCIS 2017</i>. <a href="https://www.iwsec.org/scis/2017/program.html"><u>https://www.iwsec.org/scis/2017/program.html</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2012-08-16-reduction-centric" rel="permalink">Non-programmable Security Proof for FDH
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>WISA</i>, 2012 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>A security analysis on the non-programmable Random Oracle Model</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Mario Larangeira and Keisuke Tanaka. (2012). &quot; Reduction-Centric Non-programmable Security Proof for the Full Domain Hash in the Random Oracle Model.&quot; <i>WISA 2012</i>. <a href="https://link.springer.com/chapter/10.1007/978-3-642-35416-8_10"><u>https://link.springer.com/chapter/10.1007/978-3-642-35416-8_10</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2011-01-01-programmability-ggm" rel="permalink">Programmability in GGM
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>ProvSec</i>, 2011 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We explore the idea of introducing programmability in generic models.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Mario Larangeira and Keisuke Tanaka. (2011). &quot; Programmability in the Generic Ring and Group Models.&quot; <i>ProvSec 2011</i>. <a href="http://isyou.info/jisis/vol1/no23/jisis-2011-vol1-no23-05.pdf"><u>http://isyou.info/jisis/vol1/no23/jisis-2011-vol1-no23-05.pdf</u></a></p>
+    
+
+  </article>
+</div>
+
+:ET
