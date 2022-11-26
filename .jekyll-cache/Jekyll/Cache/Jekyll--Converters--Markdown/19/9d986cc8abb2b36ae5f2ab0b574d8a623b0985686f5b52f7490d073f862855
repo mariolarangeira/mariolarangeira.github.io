@@ -1,0 +1,9 @@
+I"2<p>We had two accepted works for ICISC 2022.</p>
+
+<p>One is a my first <a href="/publication/2022-11-30-ICISC-Reputation">single-author paper</a> (YES!) . The other is <a href="https://eprint.iacr.org/2022/1623">WOTSwana</a> which is a generalization of <a href="/publication/2022-07-12-MARBLE-Sleeve">Tweakable Sleeve</a> and the <a href="/portfolio/2021-06-21-ACNS/">original Sleeve</a>.</p>
+
+<p>There are several improvements, however the one that draws more attention is that in this work our construction (in fact we have two constructions) allows multiple proofs of ownership. The original inspiration for Sleeve is to add a ‘extra trick’ in case the secret key is leak, and this trick allows you to prove that you are the rightful owner to the leaked key.</p>
+
+<p>Our work was presented at MARBLE 2022</p>
+
+:ET

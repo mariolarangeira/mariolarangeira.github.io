@@ -1,0 +1,3 @@
+I"k<p>Hot/Cold Wallet is an approach to increase the security of wallets by dividing wallet into a part which is kept connected to the network, while the other one is permanently disconnected. Consequently, the funds in the hot wallet cannot spend the funds on it.  The main issue we tackle in this work is to create a channel such that the funds can be spent.</p>
+
+:ET

@@ -1,0 +1,7 @@
+I"'<p>Those who follow this link already know that  I have been working with my co-authors from XX Networks, David Chaum and Mario Yaksetig to develop a special trick for wallets. The idea is that in a major, and catastrophic, event when several wallets are hacked, there is still a possibility of the rightful user issues a proof ownership of the wallet. This is the inspiration for our work with <a href="/portfolio/2021-06-21-ACNS/">Sleeve</a> presented at ACNS’21.</p>
+
+<p>This time we developed a more formal security proof for our new construction, i.e.,  ‘Tweakable Sleeve’, which connects better to the state-of-the-art for ECDSA. Moreover, we changed the original construction by using Tweakable Hash Function instead of L-Tree data structure.</p>
+
+<p>Our work was presented at MARBLE 2022</p>
+
+:ET

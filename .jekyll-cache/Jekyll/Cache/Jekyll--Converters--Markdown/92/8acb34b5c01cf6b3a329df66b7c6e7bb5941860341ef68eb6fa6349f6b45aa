@@ -1,43 +1,31 @@
----
-permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+<em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
-<img style="float:right" src="/images/curacao-fc.jpg" width="350">
-*Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
+<p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
 
-In this new  version I gather content material of my professional activities at [Tokyo Tech](https://www.titech.ac.jp) and [IOHK](https://iohk.io). 
+<p>In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the <em>Dois Gugol Blog</em> (in English: <em>Two Googol</em>).</p>
 
-In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the *Dois Gugol Blog* (in English: *Two Googol*).
-
-
-
-Updates
------
-- [2022-11-27] Publication: [ICISC'22 Presentation](publication/2022-12-02-ICISC-WOTSwana)
-- [2022-11-27] Publication: [ICISC'22 Presentation](publication/2022-11-30-ICISC-Reputation)
-- [2022-07-14] Publication: [MARBLE'22 Presentation](2022-07-14-MARBLE-Interhead)
-- [2022-07-12] Publication: [MARBLE'22 Presentation](publication/2022-07-12-MARBLE-Sleeve)
-- [2022-07-11] Publication: [SECRYPT'22 Presentation](publication/2022-07-11-SECRYPT)
-- [2021-06-21] Channel: [ACNS'21 Presentation](portfolio/2021-06-21-ACNS/)
-- [2021-03-30] Channel: [FC'21 Presentation](portfolio/2021-03-05-FC/)
-- [2021-03-30] Channel: [CANS'20 Presentation](portfolio/2020-12-15-CANS2020/)
-- [2021-03-22] Publication: [ACNS'21](/publication/2021-03-22-ACNS)
-- [2021-03-05] Publication: [FC'21](/publication/2021-03-05-FC)
-- [2021-02-18] Publication: [ICBC'21](/publication/2021-02-18-ICBC)
-- [2020-12-15] Publication: [CANS'20](/publication/2020-12-15-virtualchannelsCANS)
-- [2020-09-18] Channel: [SCN2020 Video](/portfolio/2020-09-14-SCN/)
-- [2020-09-18] Channel: [University of Pelotas](/portfolio/2020-06-21-federal/)
-
+<h2 id="updates">Updates</h2>
+<ul>
+  <li>[2022-11-27] Publication: <a href="2022-07-14-MARBLE-Interhead">ICISC’22 Presentation</a></li>
+  <li>[2022-11-27] Publication: <a href="publication/2022-11-30-ICISC-Reputation">ICISC’22 Presentation</a></li>
+  <li>[2022-07-14] Publication: <a href="2022-07-14-MARBLE-Interhead">MARBLE’22 Presentation</a></li>
+  <li>[2022-07-12] Publication: <a href="publication/2022-07-12-MARBLE-Sleeve">MARBLE’22 Presentation</a></li>
+  <li>[2022-07-11] Publication: <a href="publication/2022-07-11-SECRYPT">SECRYPT’22 Presentation</a></li>
+  <li>[2021-06-21] Channel: <a href="portfolio/2021-06-21-ACNS/">ACNS’21 Presentation</a></li>
+  <li>[2021-03-30] Channel: <a href="portfolio/2021-03-05-FC/">FC’21 Presentation</a></li>
+  <li>[2021-03-30] Channel: <a href="portfolio/2020-12-15-CANS2020/">CANS’20 Presentation</a></li>
+  <li>[2021-03-22] Publication: <a href="/publication/2021-03-22-ACNS">ACNS’21</a></li>
+  <li>[2021-03-05] Publication: <a href="/publication/2021-03-05-FC">FC’21</a></li>
+  <li>[2021-02-18] Publication: <a href="/publication/2021-02-18-ICBC">ICBC’21</a></li>
+  <li>[2020-12-15] Publication: <a href="/publication/2020-12-15-virtualchannelsCANS">CANS’20</a></li>
+  <li>[2020-09-18] Channel: <a href="/portfolio/2020-09-14-SCN/">SCN2020 Video</a></li>
+  <li>[2020-09-18] Channel: <a href="/portfolio/2020-06-21-federal/">University of Pelotas</a></li>
+  <li>[2020-09-14] Publication: <a href="/publication/2020-09-14-account-management">Account Management in PoS</a></li>
+  <li>[2020-09-10] Seminar: <a href="/teaching/2020-09-10-atomic-multi-channels">Atomic Multi-channels Updates</a></li>
+</ul>
 
 <!--
-- [2020-09-14] Publication: [Account Management in PoS](/publication/2020-09-14-account-management)
-- [2020-09-10] Seminar: [Atomic Multi-channels Updates](/teaching/2020-09-10-atomic-multi-channels)
 - [2020-08-06] Seminar: [More Anonymous Credential](/teaching/2020-08-06-ACS-Variants)
 - [2020-07-30] Seminar: [Eltoo](/teaching/2020-07-30-Eltoo)
 - [2020-07-21] Talk: [UFPel Seminar](/talks/2020-07-21-talk)
@@ -68,3 +56,4 @@ Updates
 - [2019-01-25] Our group had five presentations at [SCIS 2019](/talks/2019-01-25-talk)
 - [2019-01-22]  Panel on cutting edge research on [Binance Event](/talks/2019-01-22-talk)
 - [2018-08-15] Presentation at [Crypto 2018 Rump Session](/portfolio/2018-08-15-portfolio/)-->
+:ET

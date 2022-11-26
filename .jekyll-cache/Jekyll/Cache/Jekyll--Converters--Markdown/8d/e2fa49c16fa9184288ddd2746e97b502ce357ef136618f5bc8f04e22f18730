@@ -1,0 +1,9 @@
+I"<p>We had two accepted works for ICISC 2022.</p>
+
+<p>One is a my first <a href="/publication/2022-11-30-ICISC-Reputation">single-author paper</a> (YES!) . The other is <a href="https://eprint.iacr.org/2022/1623">WOTSwana</a> which is the generalization of <a href="/publication/2022-07-12-MARBLE-Sleeve">Tweakable Sleeve</a> and the <a href="/portfolio/2021-06-21-ACNS/">original Sleeve</a>.</p>
+
+<p>There are several improvements in this work. The one that draws more attention is that our construction (in fact we have two constructions) allows multiple proofs of ownership. The original inspiration for Sleeve is to add an ‘trick’ in case the secret key is leaked, and this trick allows you to prove that you are the rightful owner to the leaked key. The previous works allow you to do it only once. It was a single shot. WOTSwana allows you to do it multiple times without reveling the secret ECDSA key.</p>
+
+<p>A funny story that explains the name, is  related to the post quantum signature  scheme we rely for our constructions: WOTS+. While in the first steps of development of the scheme we considered to submit the work to a conference in Africa, so we went for a name that reminds a African country: Botswana. Unfortunately we missed the deadline, however the name stuck.</p>
+
+:ET
