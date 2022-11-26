@@ -1,5 +1,0 @@
-I"<p>Hot/Cold Wallet is an approach to increase the security of wallets by dividing wallet into a part which is kept connected to the network, while the other one is permanently disconnected. Consequently, the funds in the hot wallet cannot spend the funds on it.  The main issue we tackle in this work is to create a channel such that the funds can be spent.</p>
-
-<p>We create a QR Video  channel in order to transfer the signed transaction to the hot wallet. Such a channel has higher transmission capacity in comparison to a QR Code based channel. A higher transmission  capacity could allow more complex transactions to be transmitted between the wallets. Such transactions could be used  in more sophisticated system like <a href="">delegated proof-of-stake</a></p>
-
-:ET

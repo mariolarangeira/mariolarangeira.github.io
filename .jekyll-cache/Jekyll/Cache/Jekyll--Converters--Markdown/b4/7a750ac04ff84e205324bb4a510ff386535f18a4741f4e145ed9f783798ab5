@@ -1,4 +1,4 @@
-I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
 <em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
 <p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
@@ -7,10 +7,11 @@
 
 <h2 id="updates">Updates</h2>
 <ul>
-  <li>[2022-07-21] Publication: <a href="portfolio/2021-06-21-ACNS/">MARBLE’22 Presentation</a></li>
-  <li>
-    <p>[2022-07-21] Publication: <a href="portfolio/2021-06-21-ACNS/">MARBLE’22 Presentation</a></p>
-  </li>
+  <li>[2022-11-27] Publication: <a href="publication/2022-12-02-ICISC-WOTSwana">ICISC’22 Presentation</a></li>
+  <li>[2022-11-27] Publication: <a href="publication/2022-11-30-ICISC-Reputation">ICISC’22 Presentation</a></li>
+  <li>[2022-07-14] Publication: <a href="publication/2022-07-14-MARBLE-Interhead">MARBLE’22 Presentation</a></li>
+  <li>[2022-07-12] Publication: <a href="publication/2022-07-12-MARBLE-Sleeve">MARBLE’22 Presentation</a></li>
+  <li>[2022-07-11] Publication: <a href="publication/2022-07-11-SECRYPT">SECRYPT’22 Presentation</a></li>
   <li>[2021-06-21] Channel: <a href="portfolio/2021-06-21-ACNS/">ACNS’21 Presentation</a></li>
   <li>[2021-03-30] Channel: <a href="portfolio/2021-03-05-FC/">FC’21 Presentation</a></li>
   <li>[2021-03-30] Channel: <a href="portfolio/2020-12-15-CANS2020/">CANS’20 Presentation</a></li>
@@ -20,14 +21,14 @@
   <li>[2020-12-15] Publication: <a href="/publication/2020-12-15-virtualchannelsCANS">CANS’20</a></li>
   <li>[2020-09-18] Channel: <a href="/portfolio/2020-09-14-SCN/">SCN2020 Video</a></li>
   <li>[2020-09-18] Channel: <a href="/portfolio/2020-06-21-federal/">University of Pelotas</a></li>
-  <li>[2020-09-14] Publication: <a href="/publication/2020-09-14-account-management">Account Management in PoS</a></li>
-  <li>[2020-09-10] Seminar: <a href="/teaching/2020-09-10-atomic-multi-channels">Atomic Multi-channels Updates</a></li>
-  <li>[2020-08-06] Seminar: <a href="/teaching/2020-08-06-ACS-Variants">More Anonymous Credential</a></li>
-  <li>[2020-07-30] Seminar: <a href="/teaching/2020-07-30-Eltoo">Eltoo</a></li>
-  <li>[2020-07-21] Talk: <a href="/talks/2020-07-21-talk">UFPel Seminar</a></li>
 </ul>
 
 <!--
+- [2020-09-14] Publication: [Account Management in PoS](/publication/2020-09-14-account-management)
+- [2020-09-10] Seminar: [Atomic Multi-channels Updates](/teaching/2020-09-10-atomic-multi-channels)
+- [2020-08-06] Seminar: [More Anonymous Credential](/teaching/2020-08-06-ACS-Variants)
+- [2020-07-30] Seminar: [Eltoo](/teaching/2020-07-30-Eltoo)
+- [2020-07-21] Talk: [UFPel Seminar](/talks/2020-07-21-talk)
 - [2020-07-16] Seminar: [ACS Revisited](/teaching/2020-07-16-ACS-revisited)
 - [2020-07-09] Seminar: [MPC made easy](/teaching/2020-07-09-MPC-Easy)
 - [2020-07-03] Talk: [Cardano Summit](/talks/2020-07-03-talk)

@@ -21,7 +21,7 @@ Updates
 -----
 - [2022-11-27] Publication: [ICISC'22 Presentation](publication/2022-12-02-ICISC-WOTSwana)
 - [2022-11-27] Publication: [ICISC'22 Presentation](publication/2022-11-30-ICISC-Reputation)
-- [2022-07-14] Publication: [MARBLE'22 Presentation](2022-07-14-MARBLE-Interhead)
+- [2022-07-14] Publication: [MARBLE'22 Presentation](publication/2022-07-14-MARBLE-Interhead)
 - [2022-07-12] Publication: [MARBLE'22 Presentation](publication/2022-07-12-MARBLE-Sleeve)
 - [2022-07-11] Publication: [SECRYPT'22 Presentation](publication/2022-07-11-SECRYPT)
 - [2021-06-21] Channel: [ACNS'21 Presentation](portfolio/2021-06-21-ACNS/)
