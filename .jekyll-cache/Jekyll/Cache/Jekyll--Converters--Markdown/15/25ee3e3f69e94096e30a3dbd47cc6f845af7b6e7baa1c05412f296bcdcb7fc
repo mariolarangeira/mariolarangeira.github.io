@@ -1,0 +1,7 @@
+I"<p>We will be presenting at FC’23!</p>
+
+<p>Max came up with a better construction for the <a href="/publication/2022-07-14-MARBLE-Interhead">Interhead Protocol (which was presented at MARBLE 2022)</a>. Briefly, this protocol implements a technique to merge “heads” of the <a href="https://www.springerprofessional.de/en/fast-isomorphic-state-channels/19786778">Hydra Protocol</a>. This paves a way to build better decentralized applications. The capability of merge layer-2 groups of participants provides more flexibility.</p>
+
+<p>We remark that used interactively, a second head, with only two participants, one which is also participant of an earlier bigger head, could sponsor the merge of both heads. The result is a protocol of enlarging off-chain isomorphic group.</p>
+
+:ET

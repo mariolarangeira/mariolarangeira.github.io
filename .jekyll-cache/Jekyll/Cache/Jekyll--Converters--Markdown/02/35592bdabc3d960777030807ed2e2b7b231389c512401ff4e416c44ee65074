@@ -1,4 +1,4 @@
-I"w*
+I"1
 <p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
@@ -1919,6 +1919,35 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
   </article>
 </div>
 
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2023-02-19-FC2023-Interhead" rel="permalink">State Machines across Isomorphic Layer 2 Ledgers  on FC 2023
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>27th International Conference Financial Cryptography and Data Security</i>, 2022 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Better State Machines for Interheads</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Maxim Jourenko and Mario Larangeira. (2023). &quot;State Machines across Isomorphic Layer 2 Ledgers.&quot; <i>FC 2023</i>. <a href="https://fc23.ifca.ai/"><u>https://fc23.ifca.ai/</u></a></p>
+    
+
+  </article>
+</div>
+
 <h2>talks</h2>
 
 <div class="list__item">
@@ -2233,6 +2262,33 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
 
         
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-09-16T00:00:00+00:00">September 16, 2022</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>During the week of November 14-20 the whole Research Division of <a href="https://iohk.io/en/research/">Input Output</a> met at the University of Edinburgh.</p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2023-01-27-talk" rel="permalink">SCIS 2023 in Kokura
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2023-01-27T00:00:00+00:00">January 27, 2023</time></p>
         
 
     

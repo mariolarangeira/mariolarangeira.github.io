@@ -1,4 +1,4 @@
-I"•
+I"š™
 <p><img src="/images/work-desk.jpg" alt="" /></p>
 
 <h1 id="education">Education</h1>
@@ -49,6 +49,29 @@
 
 <h1 id="publications">Publications</h1>
 <ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2023-02-19-FC2023-Interhead" rel="permalink">State Machines across Isomorphic Layer 2 Ledgers  on FC 2023
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Maxim Jourenko and Mario Larangeira. (2023). &quot;State Machines across Isomorphic Layer 2 Ledgers.&quot; <i>FC 2023</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
     
 
 
@@ -581,6 +604,30 @@
 
 <h1 id="talks">Talks</h1>
 <ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2023-01-24-talk" rel="permalink">SCIS 2023 in Kokura
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> January 24, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at SCIS'23,  Kokura</p>
+    </li>
+  </article>
+</div>
+
+
+  
     
 
 
