@@ -19,7 +19,7 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
-- [2023-02-19] Publication: [FC'23](/2023-02-19-FC2023-Interhead)
+- [2023-02-19] Publication: [FC'23](/publication/2023-02-19-FC2023-Interhead)
 - [2023-02-08] Talk: [Talk Show at Kyodai](/talks/2023-02-08-talk)
 - [2023-01-24] Presentation: [SCIS'23](/talks/2023-01-24-talk)
 - [2022-12-02] Talk: [Panel at Brazilian Embassy](/talks/2022-12-02-talk)
