@@ -1,0 +1,1825 @@
+I"e�
+<p><img src="/images/work-desk.jpg" alt="" /></p>
+
+<h1 id="education">Education</h1>
+<ul>
+  <li>Ph.D. Computer Science (Cryptography), Tokyo Institute of Technology/Japan, 2013</li>
+  <li>M.S. Computer Science, Tokyo Institute of Technology/Japan, 2008</li>
+  <li>Computer Engineer, Aeronautical Institute of Technology (ITA)/Brasil, 2004</li>
+</ul>
+
+<h1 id="work-experience">Work experience</h1>
+<ul>
+  <li>February 2017-Present: Specially Appointed Associate Professor
+    <ul>
+      <li>Tokyo Institute of Technology</li>
+      <li>Department of Mathematical and Computing Sciences</li>
+    </ul>
+  </li>
+  <li>March 2016-Present: Research Fellow/Manager
+    <ul>
+      <li>Input Output HK (IOHK)/Tokyo -Japan</li>
+    </ul>
+  </li>
+  <li>June 2012-February 2016: System Engineer
+    <ul>
+      <li>Bank of Brazil/Tokyo-Japan</li>
+    </ul>
+  </li>
+  <li>July 2005-March 2006: Product Development Engineer
+    <ul>
+      <li>Embraer S.A. /Sao José dos Campos-Brasil</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="achievementsskils">Achievements/Skils</h1>
+<ul>
+  <li>Languages:
+    <ul>
+      <li>English</li>
+      <li>Portuguese</li>
+      <li>Japanese</li>
+    </ul>
+  </li>
+  <li>Creation of the “Input Output Hong Kong Cryptocurrency Collaborative Research Chair” at Tokyo Institute of Technology</li>
+  <li>Monbukagakusho Scholarship - Ministry of Education, Culture, Sports, Science and Technology of Japan (April 2006 - September 2011)</li>
+  <li>Best Computer Engineering graduation project of the Aeronautical Institute of Technology (ITA) in 2004</li>
+</ul>
+
+<h1 id="publications">Publications</h1>
+<ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2023-02-19-FC2023-Interhead" rel="permalink">‘State Machines across Isomorphic Layer 2 Ledgers’  on FC 2023
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Maxim Jourenko and Mario Larangeira. (2023). &quot;State Machines across Isomorphic Layer 2 Ledgers.&quot; <i>FC 2023</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-12-02-ICISC-WOTSwana" rel="permalink">‘WOTSwana: The generalization of Sleeve’ on ICISC 2022
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Mario Larangeira. (2022). &quot;Reputation at Stake! A Trust Layer overDecentralized Ledger for Multiparty Computation and Reputation-Fair Lottery.&quot; <i>ICISC 2022</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-11-30-ICISC-Reputation" rel="permalink">‘Reputation at Stake!’ on ICISC 2022
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Mario Larangeira. (2022). &quot;Reputation at Stake! A Trust Layer overDecentralized Ledger for Multiparty Computation and Reputation-Fair Lottery.&quot; <i>ICISC 2022</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-07-14-MARBLE-Interhead" rel="permalink">‘Interhead Hydra’ on MARBLE 2022
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Maxim Jourenko, Mario Larangeira and Keisuke Tanaka. (2022). &quot;Interhead Hydra: Two Heads are Better than One.&quot; <i>MARBLE 2022</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-07-12-MARBLE-Sleeve" rel="permalink">‘Tweakable Sleeve’ on MARBLE 2022
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">David Chaum, Mario Larangeira and Mario Yaksetig. (2022). &quot;Tweakable Sleeve: A Novel Sleeve Construction based on Tweakable Hash Functions.&quot; <i>MARBLE 2022</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-07-11-SECRYPT" rel="permalink">Hot/Cold Wallet in SECRYPT 2022
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Rafael Dowsley, Mylene C. Q. Farias, Mario Larangeira, Anderson Nascimento and Jot Virdee. (2022). &quot;A Spendable Cold Wallet from QR Video.&quot; <i>SECRYPT 2022</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2021-03-22-ACNS" rel="permalink">‘WOTS up my sleeve!’ on ACNS 2021
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">David Chaum, Mario Larangeira, Mario Yaksetig and William Carter. (2021). &quot;WOTS+ up my Sleeve! A Hidden Secure Fallback for Cryptocurrency Wallets.&quot; <i>ACNS 2021</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2021-03-05-FC" rel="permalink">Payment Trees in FC 2021
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Maxim Jourenko, Mario Larangeira and Keisuke Tanaka. (2021). &quot;Payment Trees: Low Collateral Payments for Payment Channel Networks.&quot; <i>FC 2021</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2021-02-18-ICBC" rel="permalink">ICBC 2021
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Xiangyu Su, Mario Larangeira and Keisuke Tanaka. (2021). &quot;How to Prove Work: With Time or Memory.&quot; <i>ICBC IEEE 2021</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2020-12-15-virtualchannelsCANS" rel="permalink">Lightweight Virtual Channels in CANS 2020
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Maxim Jourenko, Mario Larangeira and Keisuke Tanaka. (2020). &quot;Lightweight Virtual Payment Channels.&quot; <i>CANS 2020</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2020-09-14-account-management" rel="permalink">Account Management in PoS
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Dimitris Karakostas, Aggelos Kiayias and Mario Larangeira. (2020). &quot; Account Management in Proof of Stake Ledgers.&quot; <i>SCN 2020</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-02-18-royale" rel="permalink">Royale
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Bernardo David, Rafael Dowsley and Mario Larangeira. (2019). &quot; Royale: A Framework for Universally Composable Card Games with Financial Rewards and Penalties Enforcement.&quot; <i>FC 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-5" rel="permalink">Account Management and Stake Pools in Proof of Stake Ledgers
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> Dimitris Karakosstas, Aggelos Kiayias, Mario Larangeira. (2019). &quot; Account Management and Stake Pools in Proof of Stake Ledgers.&quot; <i>SCIS 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-4" rel="permalink">A Timeout Anonymous Payment Channel for Decentralized Currencies
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> Kanta Kurazumi, Maxim Jourenko, Mario Larangeira, and Keisuke Tanaka. (2019). &quot; A Timeout Anonymous Payment Channel for Decentralized Currencies.&quot; <i>SCIS 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-3" rel="permalink">Lightweight Virtual Payment Channels
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> Maxim Jourenko, Keisuke Tanaka and Mario Larangeira. (2019). &quot;Lightweight Virtual Payment Channels.&quot; <i>SCIS 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-2" rel="permalink">Notes on Offchain Protocols
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> Maim Jourenko, Kanta Kurazumi, Mario Larangeira and Keisuke Tanaka. (2019). &quot; Notes on Offchain Protocols.&quot; <i>SCIS 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2019-01-22-SCIS-1" rel="permalink">Verifiable Sequential Work with Trusted Generator
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> Xiangyu Su, Mario Larangeira and Keisuke Tanaka. (2019). &quot; Verifiable Sequential Work with Trusted Generator.&quot; <i>SCIS 2019</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2017-09-14-kaleidoscope" rel="permalink">Kaleidoscope
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; Kaleidoscope: An Efficient Poker Protocol with Payment Distribution and Penalty Enforcement.&quot; <i>FC 2018</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-06-01-MARS" rel="permalink">MARS
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; MARS: Monetized Ad-Hoc Routing Systems.&quot; <i>Cryblock</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-03-30-21" rel="permalink">Bringing down the complexity
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Bernardo David, Rafael Dowsley and Mario Larangeira. (2018). &quot; 21 - Bringing Down the Complexity: Fast Composable Protocols for Card Games Without Secret State.&quot; <i>ACISP 2018</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2018-01-23-SCIS" rel="permalink">カレイドスコープとロイヤーレ：ポーカーと一般的なカードゲームのブロックチェーンのプロトコル
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> マリオラランジェラ、ベルナルドデヴィッド、ラファエルドスレイ. (2018). &quot; カレイドスコープとロイヤーレ：ポーカーと一般的なカードゲームのブロックチェーンのプロトコル.&quot; <i>SCIS 2018</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2017-01-24-SCIS" rel="permalink">CryptoNoteに対するサイズ効率化
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"> 原　啓祐, Mario Larangeira、圭介田中. (2017). &quot; CryptoNoteに対するサイズ効率化.&quot; <i>SCIS 2017</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2012-08-16-reduction-centric" rel="permalink">Non-programmable Security Proof for FDH
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Mario Larangeira and Keisuke Tanaka. (2012). &quot; Reduction-Centric Non-programmable Security Proof for the Full Domain Hash in the Random Oracle Model.&quot; <i>WISA 2012</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2011-01-01-programmability-ggm" rel="permalink">Programmability in GGM
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description">Mario Larangeira and Keisuke Tanaka. (2011). &quot; Programmability in the Generic Ring and Group Models.&quot; <i>ProvSec 2011</i>.</p> 
+    </li>
+ </article>
+</div>
+
+  </ul>
+
+<h1 id="talks">Talks</h1>
+<ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2023-07-31-talk" rel="permalink">Africacrypt 2023 Maravedí
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> February 08, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Maravedí at Africacrypt,  Tokyo</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2023-02-08-talk" rel="permalink">Talk show about study in Japan at Kyodai Remittance
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> February 08, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Kyodai Remittance-Tokyo,  Tokyo</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2023-01-24-talk" rel="permalink">SCIS 2023 in Kokura
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> January 24, 2023</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at SCIS'23,  Kokura</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2022-12-02-talk" rel="permalink">Panel at Brazilian Embassy in Tokyo
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> December 02, 2022</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Brazilian Embassy in Tokyo,  Tokyo</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2022-09-16-talk" rel="permalink">Research Summit in Edinburgh
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> September 16, 2022</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Edinburgh'22,  Virtual</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2021-03-05-talk" rel="permalink">Payment Trees in FC 2021
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> March 05, 2021</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at FC'21,  Virtual</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2020-12-15-talk" rel="permalink">Lightweight Virtual Channels in CANS 2020
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> December 15, 2020</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at CANS'20,  Virtual</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2020-07-21-talk" rel="permalink">Seminar UFPel on Cryptography and Blockchain
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> July 21, 2020</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at UFPel-Virtual,  Pelotas, RS-Brazil</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2020-07-03-talk" rel="permalink">Cardano IOHK Virtual Summit
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> July 03, 2020</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Cardano Summit,  Virtual</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2019-04-20-talk" rel="permalink">Visit to University of Washington
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> April 20, 2019</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at University of Washington-Tacoma Campus,  Tacoma, Washington, US</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2019-04-15-talk" rel="permalink">IOHK Summit- History of Mental Poker Research
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> April 15, 2019</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at IOHK Summit-2019,  Miami, Florida, US</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2019-01-25-talk" rel="permalink">SCIS 2019
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> January 25, 2019</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Lake Biwa Otsu Prince Hotel,  Otsu, Japan</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2019-01-22-talk" rel="permalink">Binance Blockchain Event
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> January 22, 2019</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Marina Sands,  Singapore</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2019-01-208-talk" rel="permalink">人間機械協奏技術コンソーシアム第6回公 開シンポジウム
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> January 08, 2019</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Oookayama campus,  Tokyo, Japan</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2018-09-07-talk" rel="permalink">Visit to Pelotas Federal University (UFPel)
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> September 07, 2018</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at UFPel,  Pelotas, Rio Grande do Sul, Brazil</p>
+    </li>
+  </article>
+</div>
+
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/talks/2018-06-26-talk" rel="permalink">IOHK/Tokyo Tech Workshop
+</a>
+      
+    </h3>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> June 26, 2018</p>
+    <p class="archive__item-excerpt" itemprop="description">Talk at Oookayama Campus,  Tokyo, Japan</p>
+    </li>
+  </article>
+</div>
+
+
+  </ul>
+
+<!--
+Teaching and Seminars
+======
+  <ul>
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2018-spring-teaching-1" rel="permalink">MCS.T415
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2018-10-20" rel="permalink">Seminar: David Chaum visited our group
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-spring-teaching-1" rel="permalink">MCS.T512
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-07-02" rel="permalink">Seminar 2019-07-02
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-07-16" rel="permalink">Seminar 2019-07-16
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-07-30" rel="permalink">Seminar 2019-07-30
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-08-09" rel="permalink">Seminar 2019-08-09
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-08-20" rel="permalink">Seminar 2019-08-20
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-09-17" rel="permalink">Seminar 2019-09-17
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-10-04" rel="permalink">Seminar 2019-10-04
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-10-11" rel="permalink">Seminar 2019-10-11
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-10-17" rel="permalink">Seminar 2019-10-17
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-10-24" rel="permalink">Seminar 2019-10-24
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-11-21" rel="permalink">Seminar 2019-11-21
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-11-27" rel="permalink">Seminar 2019-11-27
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-12-03" rel="permalink">Seminar 2019-12-03
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-12-19" rel="permalink">Seminar 2019-12-19
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2019-12-19" rel="permalink">Seminar 2019-12-19
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-01-16" rel="permalink">Seminar 2020-01-16
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-02-18" rel="permalink">How to design collateral: 2020-02-18
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-03-03" rel="permalink">Anonymous Multi-hop Locks: 2020-03-03
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-03-10" rel="permalink">(Weighted) Threshold Signatures: 2020-03-10/17
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-04-20" rel="permalink">Extended UTXO Model: 2020-04-20
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-04-27" rel="permalink">Hail Hydra: 2020-04-27
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-05-05-spring-teaching-1" rel="permalink">MCS.T415
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-05-13-DID" rel="permalink">Seminar on DID/Verifiable Credentials
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-05-21-credentials" rel="permalink">Seminar on Verifiable Credentials
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-05-28-stakepool" rel="permalink">Seminar on Stake Pools
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-06-04-anonymity" rel="permalink">Seminar on Anonymity
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-06-11-ibe" rel="permalink">Seminar on Anonymity/IBE
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-06-18-time-lock-puzzle" rel="permalink">Seminar on Time-Lock Puzzle
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-07-09-MPC-Easy" rel="permalink">Seminar on MPC
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-07-16-ACS-revisited" rel="permalink">ACS Revisited
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-07-30-Eltoo" rel="permalink">Eltoo
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-08-06-ACS-Variants" rel="permalink">More Anonymous Credential
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  
+    
+
+
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    
+    <h3 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/teaching/2020-09-10-atomic-multi-channels" rel="permalink">Atomic Multi-channels Updates
+</a>
+      
+    </h3>
+    
+    <p class="archive__item-excerpt" itemprop="description"></p> 
+    </li>
+ </article>
+</div>
+
+  </ul>
+-->
+:ET
