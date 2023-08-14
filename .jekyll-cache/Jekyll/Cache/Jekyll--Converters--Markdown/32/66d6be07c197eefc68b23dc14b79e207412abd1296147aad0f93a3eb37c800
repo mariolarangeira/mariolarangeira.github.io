@@ -1,9 +1,0 @@
-I"�<p>We will be presenting at AFRICACRYPT’23!</p>
-
-<p>Our <a href="https://eprint.iacr.org/2023/183">Maravedí Protocol</a>  will be presented at AFRICACRYPT’23!</p>
-
-<p>Our protocol introduces a novel idea of trading risk for <strong>instantaneous finality</strong>.  As far as we know, this is the first protocol to propose this idea. The core is a protocol that coordinates a payment channel protocol, like Lightning Network,  and a slow regular ledger transaction.  The main model is similar to the credit card model. That is a customer buys from a merchant and a third player, guarantees that the merchant will receive, in case the ledger transaction is not confirmed.</p>
-
-<p>Our protocol guarantees that the merchant receives as long as the third player also receives. We have introduced a new use of the Hash Time Lock Contract (HTLC) which allows this <em>atomicity</em> property.</p>
-
-:ET
