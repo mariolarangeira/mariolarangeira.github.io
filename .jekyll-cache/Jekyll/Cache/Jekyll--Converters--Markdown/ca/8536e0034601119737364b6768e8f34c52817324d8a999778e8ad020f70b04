@@ -1,42 +1,29 @@
----
-permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+<em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
-<img style="float:right" src="/images/curacao-fc.jpg" width="350">
-*Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
+<p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
 
-In this new  version I gather content material of my professional activities at [Tokyo Tech](https://www.titech.ac.jp) and [IOHK](https://iohk.io). 
+<p>In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the <em>Dois Gugol Blog</em> (in English: <em>Two Googol</em>).</p>
 
-In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the *Dois Gugol Blog* (in English: *Two Googol*).
-
-
-
-Updates
------
-- [2024-07-02] Publication: [SCN'24](/publication/2024-07-02-SCN-MUSEN)
-- [2024-06-17] Publication: [CANS'24](/publication/2024-06-17-CANS24-Audit-Hydra)
-- [2024-03-14] Book contribution: [Blockchains: A Handbook on Fundamentals, Platforms and Applications](/publication/2024-03-14-PoS-Book)
-- [2024-01-11] Publication: [ACNS'24](/publication/2024-01-11-ACNS2024-Contact-tracing)
-- [2023-12-27] Talk: [IEEE ISPA](/talks/2023-12-27-talk) and Best Paper Award
-- [2023-08-13] Talk: [NSS'223 Presentation](/talks/2023-08-14-talk)
-- [2023-07-31] Talk: [Africacrypt'23 Presentation](/talks/2023-07-31-talk)
-- [2023-07-06] Publication: [NSS'23](/publication/2023-07-06-NSS2023-Deep-learning-pow)
-- [2023-06-23] Publication: [Africacrypt'23](/publication/2023-07-19-AFRICACRYPT2023-Maravedi)
-- [2023-02-19] Publication: [FC'23](/publication/2023-02-19-FC2023-Interhead)
-- [2023-02-08] Talk: [Talk Show at Kyodai](/talks/2023-02-08-talk)
-- [2023-01-24] Presentation: [SCIS'23](/talks/2023-01-24-talk)
-- [2022-12-02] Talk: [Panel at Brazilian Embassy](/talks/2022-12-02-talk)
-- [2022-11-27] Publication: [ICISC'22 Presentation](/publication/2022-12-02-ICISC-WOTSwana)
-- [2022-11-27] Publication: [ICISC'22 Presentation](/publication/2022-11-30-ICISC-Reputation)
-- [2022-09-16] Talk: [Research Summit in Edinburgh](/talks/2022-09-16-talk)
-
-
+<h2 id="updates">Updates</h2>
+<ul>
+  <li>[2024-07-2]Publication: [SCN’24] (TO BE ADDED)</li>
+  <li>[2024-06-17]Publication: [CANS’24] (TO BE ADDED)</li>
+  <li>[2024-03-14] New Book! (TO BE ADDED)</li>
+  <li>[2024-01-11] Publication: <a href="/publication/2024-01-11-ACNS2024-Contact-tracing">ACNS’24</a></li>
+  <li>[2023-12-27] Talk: <a href="/talks/2023-12-27-talk">IEEE ISPA</a> and Best Paper Award</li>
+  <li>[2023-08-13] Talk: <a href="/talks/2023-08-14-talk">NSS’223 Presentation</a></li>
+  <li>[2023-07-31] Talk: <a href="/talks/2023-07-31-talk">Africacrypt’23 Presentation</a></li>
+  <li>[2023-07-06] Publication: <a href="/publication/2023-07-06-NSS2023-Deep-learning-pow">NSS’23</a></li>
+  <li>[2023-06-23] Publication: <a href="/publication/2023-07-19-AFRICACRYPT2023-Maravedi">Africacrypt’23</a></li>
+  <li>[2023-02-19] Publication: <a href="/publication/2023-02-19-FC2023-Interhead">FC’23</a></li>
+  <li>[2023-02-08] Talk: <a href="/talks/2023-02-08-talk">Talk Show at Kyodai</a></li>
+  <li>[2023-01-24] Presentation: <a href="/talks/2023-01-24-talk">SCIS’23</a></li>
+  <li>[2022-12-02] Talk: <a href="/talks/2022-12-02-talk">Panel at Brazilian Embassy</a></li>
+  <li>[2022-11-27] Publication: <a href="/publication/2022-12-02-ICISC-WOTSwana">ICISC’22 Presentation</a></li>
+  <li>[2022-11-27] Publication: <a href="/publication/2022-11-30-ICISC-Reputation">ICISC’22 Presentation</a></li>
+  <li>[2022-09-16] Talk: <a href="/talks/2022-09-16-talk">Research Summit in Edinburgh</a></li>
+</ul>
 
 <!--
 - [2022-07-14] Publication: [MARBLE'22 Presentation](/publication/2022-07-14-MARBLE-Interhead)
@@ -83,3 +70,4 @@ Updates
 - [2019-01-25] Our group had five presentations at [SCIS 2019](/talks/2019-01-25-talk)
 - [2019-01-22]  Panel on cutting edge research on [Binance Event](/talks/2019-01-22-talk)
 - [2018-08-15] Presentation at [Crypto 2018 Rump Session](/portfolio/2018-08-15-portfolio/)-->
+:ET

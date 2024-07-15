@@ -1,0 +1,6 @@
+I"Ú<p>We are excited to announce that we have a new <a href="https://arxiv.org/abs/2307.15269">accepted paper</a> 
+ for <a href="http://www.ieee-hust-ncc.org/2023/ISPA/conferenceprogram.html">IEEE ISPAâ€™23</a>.</p>
+
+<p>Liu has presented the idea of exploiting the rich structure of the UTXO in order to speed up the DAG based protocols. Entries in the UTXO can be tracked along the DAG structure, therefore the counting of votes among participants can be easily counted,</p>
+
+:ET

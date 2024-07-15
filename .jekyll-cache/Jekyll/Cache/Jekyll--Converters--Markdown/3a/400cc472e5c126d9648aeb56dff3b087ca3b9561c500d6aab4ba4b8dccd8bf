@@ -1,0 +1,5 @@
+I",<p>We are happy to announce that <a href="https://eprint.iacr.org/2024/628">our work</a> which introduces a novel VRF construction with forward security  was accepted and will be presented at <a href="https://scn.unisa.it/scn24/index.php/accepted-papers/">SCN’24</a>.</p>
+
+<p>Here we introduced a new VRF with forward security capabilities. That is a significant improvement since VRF are used in proof of stake based blockchain protocols which could be target of ``nothing at stake’’ attacks, where old keys can be used to attack the protocol.</p>
+
+:ET

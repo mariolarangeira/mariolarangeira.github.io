@@ -1,0 +1,5 @@
+I"Ú<p>We are excited to announce that Su has its <a href="https://eprint.iacr.org/2023/1060">work</a> accepted for <a href="https://wp.nyu.edu/acns2024/accepted-papers-r2/">ACNSâ€™24</a>.</p>
+
+<p>Su and Pengfei introduced a new protocol in order to trace contact between people. The main idea is that an application on, for example on the phone, would keep a list of other phones that approximated. Then one the owner of phone assigns that it got symptoms of an infectious disease (like, Covid, for example) it releases a ciphered list of contacts which the other phones could check and know if it was exposed or not, releasing themselves their lists. The core contribution in this protocol ia a new auditable signature scheme.</p>
+
+:ET

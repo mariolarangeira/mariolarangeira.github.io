@@ -1,0 +1,5 @@
+I"!<p>We are happy to announce that <a href="https://eprint.iacr.org/2024/628">our work</a> which introduces a novel VRF construction with forward security  was accepted and will be presented at <a href="https://2024.cansconference.org/programme?fbclid=IwZXh0bgNhZW0CMTAAAR022yqOPonS5hXfv8Pr9nDpndYLjweS9kzSDj2n6pJNjQhE6kYhpBJbeYQ_aem_J8YVI0Zx8gO-Yl0Ng4O-Eg">SCN’24</a>.</p>
+
+<p>In this work, we take a look on the design of state-channel with audit capabilities. That is, a group of participants can trade on layer 2, i.e., off-chain, and an auditor can get along and inquiry about the past transactions. This is particular critical, since without such capabilities it would be very hard to guarantee standard financial regulation regarding Know your Customer (KYC) and Anti-Money Laundry (AML).</p>
+
+:ET
