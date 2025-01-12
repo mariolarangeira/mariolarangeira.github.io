@@ -1,0 +1,7 @@
+I"ß<p>This September Dimitris Karakostas presented our approach for the regulation on layer-2 in Cambridge. We have proposed a Hydra like protocol, i.e., multiuser payment channel, with audit capabilities. The full paper is <a href="https://eprint.iacr.org/2024/1135">here</a>.</p>
+
+<p>In our protocol, the members of the head, i.e., the multiuser payment channel, keep information on the activities of the channel. Practical example of information is how much had been transacted, who transacted with whom, etc. This is particularly interesting in order to improve the applicability and acceptability of blockchain based system by governments and regulators.</p>
+
+<p><img src="/images/talks/2024-09-25/cambridge.jpg" width="500" /></p>
+
+:ET
