@@ -1,4 +1,4 @@
-I"J<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+I"<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
 <em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
 <p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
@@ -7,6 +7,8 @@
 
 <h2 id="updates">Updates</h2>
 <ul>
+  <li>[2025-06-20] Channel: Episode #2</li>
+  <li>[2025-06-09] Publication: Our hot/cold wallet for PoS at <a href="/publication/2025-06-09-HotColdWallet-Secrypt">SECRYPT’25</a></li>
   <li>[2025-06-09] Channel: First episode of our <a href="/portfolio/2025-06-09-AIPodcast/">Alice &amp; Bob Podcast</a></li>
   <li>[2025-01-01] Publication: <a href="/publication/2025-01-01-MELCOIN">ACNS’25</a></li>
   <li>[2024-12-12] Channel: <a href="/portfolio/2024-12-12-talk">Short interview</a> with IOG at Eurocrypt’24</li>

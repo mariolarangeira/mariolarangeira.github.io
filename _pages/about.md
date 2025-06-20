@@ -19,6 +19,7 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2025-06-20] Channel: Episode #2 of our [Alice & Bob Podcast](/portfolio/2025-06-20-AIPodcast-two/)
 - [2025-06-09] Publication: Our hot/cold wallet for PoS at [SECRYPT'25](/publication/2025-06-09-HotColdWallet-Secrypt)
 - [2025-06-09] Channel: First episode of our [Alice & Bob Podcast](/portfolio/2025-06-09-AIPodcast/)
 - [2025-01-01] Publication: [ACNS'25](/publication/2025-01-01-MELCOIN)

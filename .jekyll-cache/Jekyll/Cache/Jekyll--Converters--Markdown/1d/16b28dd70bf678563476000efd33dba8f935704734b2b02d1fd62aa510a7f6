@@ -1,4 +1,4 @@
-I"ko
+I"�v
 <p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
@@ -1256,7 +1256,7 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/portfolio/2024-12-12-talk/" rel="permalink">
+        <a href="http://localhost:4000/portfolio/2024-12-12-talk/" rel="permalink">Short Interview: IO Research Team at Eurocrypt’24
 </a>
       
     </h2>
@@ -1264,11 +1264,11 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-06-09T03:07:13+00:00">June 09, 2025</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2024-12-12T00:00:00+00:00">December 12, 2024</time></p>
         
 
     
-    <p class="archive__item-excerpt" itemprop="description">
+    <p class="archive__item-excerpt" itemprop="description"><p>Interview with IOG at Eurocrypt’24.<br /><img src="/images/portfolio/2024-12-12/youtube.png" /></p>
 </p>
     
     
@@ -1295,7 +1295,34 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #1 on Cold Staking at SECRYPT’25.<br /><img src="/images/portfolio/2025-06-09/AI-Alice-Bob.png" /></p>
+    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #1 on Cold Staking at SECRYPT’25.<br /><img src="/images/portfolio/2025-06-09/AI-Alice-Bob.png" width="500" /></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/portfolio/2025-06-20-AIPodcast-two/" rel="permalink">(Alice &amp; Bob Podcast #2): Double Auction Meets Blockchain at ACNS’25
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-06-20T00:00:00+00:00">June 20, 2025</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #2 on Double Auction Meets Blockchain at ACNS’25.<br /><img src="/images/portfolio/2025-06-20/episode-two.png" width="500" /></p>
 </p>
     
     
@@ -2200,6 +2227,35 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
     
     
       <p>Recommended citation: Xiangyu Su, Xavier Defago, Mario Larangeira, Kazuyuki Mori, Takuya Oda, Yasumasa Tamura and Keisuke Tanaka. (2025). &quot;Double Auction Meets Blockchain: Consensus from Scored Bid-Assignment.&quot; <i>ACNS 2025</i>. </p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2025-06-09-HotColdWallet-Secrypt" rel="permalink">‘Secure and Practical Cold (and Hot) Staking’ in SECRYPT’25
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>22nd International Conference on Security and Cryptography</i>, 2025 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Efficient Cold Staking in PoS Systems</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Mario Larangeira. (2025). &quot;Secure and Practical Cold (and Hot) Staking.&quot; <i>SECRYPT 2025</i>. </p>
     
 
   </article>
