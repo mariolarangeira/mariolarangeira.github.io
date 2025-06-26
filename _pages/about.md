@@ -19,6 +19,7 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
+- [2025-06-26] Channel: [Episode #3](/portfolio/2025-06-26-AIPodcast-3/) of our Alice & Bob Podcast
 - [2025-06-20] Channel: [Episode #2](/portfolio/2025-06-20-AIPodcast-two/) of our Alice & Bob Podcast
 - [2025-06-09] Publication: Our hot/cold wallet for PoS at [SECRYPT'25](/publication/2025-06-09-HotColdWallet-Secrypt)
 - [2025-06-09] Channel: First episode of our [Alice & Bob Podcast](/portfolio/2025-06-09-AIPodcast/)
@@ -30,10 +31,9 @@ Updates
 - [2024-07-02] Publication: [SCN'24](/publication/2024-07-02-SCN-MUSEN)
 - [2024-06-17] Publication: [CANS'24](/publication/2024-06-17-CANS24-Audit-Hydra)
 - [2024-03-14] Book contribution: [Blockchains: A Handbook on Fundamentals, Platforms and Applications](/publication/2024-03-14-PoS-Book)
-- [2024-01-11] Publication: [ACNS'24](/publication/2024-01-11-ACNS2024-Contact-tracing)
-
 
 <!--
+- [2024-01-11] Publication: [ACNS'24](/publication/2024-01-11-ACNS2024-Contact-tracing)
 - [2023-12-27] Talk: [IEEE ISPA](/talks/2023-12-27-talk) and Best Paper Award
 - [2023-08-13] Talk: [NSS'223 Presentation](/talks/2023-08-14-talk)
 - [2023-07-31] Talk: [Africacrypt'23 Presentation](/talks/2023-07-31-talk)

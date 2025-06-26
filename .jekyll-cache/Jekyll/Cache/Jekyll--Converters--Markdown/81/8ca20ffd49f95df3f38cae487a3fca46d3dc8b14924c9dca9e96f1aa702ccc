@@ -1,4 +1,4 @@
-I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+I"O<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
 <em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
 <p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
@@ -7,6 +7,7 @@
 
 <h2 id="updates">Updates</h2>
 <ul>
+  <li>[2025-06-26] Channel: <a href="/portfolio/2025-06-26-AIPodcast-3/">Episode #3</a> of our Alice &amp; Bob Podcast</li>
   <li>[2025-06-20] Channel: <a href="/portfolio/2025-06-20-AIPodcast-two/">Episode #2</a> of our Alice &amp; Bob Podcast</li>
   <li>[2025-06-09] Publication: Our hot/cold wallet for PoS at <a href="/publication/2025-06-09-HotColdWallet-Secrypt">SECRYPT’25</a></li>
   <li>[2025-06-09] Channel: First episode of our <a href="/portfolio/2025-06-09-AIPodcast/">Alice &amp; Bob Podcast</a></li>
@@ -18,10 +19,10 @@
   <li>[2024-07-02] Publication: <a href="/publication/2024-07-02-SCN-MUSEN">SCN’24</a></li>
   <li>[2024-06-17] Publication: <a href="/publication/2024-06-17-CANS24-Audit-Hydra">CANS’24</a></li>
   <li>[2024-03-14] Book contribution: <a href="/publication/2024-03-14-PoS-Book">Blockchains: A Handbook on Fundamentals, Platforms and Applications</a></li>
-  <li>[2024-01-11] Publication: <a href="/publication/2024-01-11-ACNS2024-Contact-tracing">ACNS’24</a></li>
 </ul>
 
 <!--
+- [2024-01-11] Publication: [ACNS'24](/publication/2024-01-11-ACNS2024-Contact-tracing)
 - [2023-12-27] Talk: [IEEE ISPA](/talks/2023-12-27-talk) and Best Paper Award
 - [2023-08-13] Talk: [NSS'223 Presentation](/talks/2023-08-14-talk)
 - [2023-07-31] Talk: [Africacrypt'23 Presentation](/talks/2023-07-31-talk)
