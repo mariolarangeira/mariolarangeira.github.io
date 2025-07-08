@@ -1,37 +1,25 @@
----
-permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+<em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
-<img style="float:right" src="/images/curacao-fc.jpg" width="350">
-*Mario Report* is an updated version of an [old blog](http://doisgugol.blogspot.com) whose name has an [explanation](/markdown).  
+<p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
 
-In this new  version I gather content material of my professional activities at [Tokyo Tech](https://www.titech.ac.jp) and [IOHK](https://iohk.io). 
+<p>In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the <em>Dois Gugol Blog</em> (in English: <em>Two Googol</em>).</p>
 
-In the above tabs,  publications, talks, seminars, resume and videos, and, of course, the new version of the *Dois Gugol Blog* (in English: *Two Googol*).
-
-
-
-Updates
------
-- [2025-07-08] Channel: [Episode #4](/portfolio/2025-07-08-AIPodcast-4/) of our Alice & Bob Podcast
-- [2025-06-26] Channel: [Episode #3](/portfolio/2025-06-26-AIPodcast-3/) of our Alice & Bob Podcast
-- [2025-06-20] Channel: [Episode #2](/portfolio/2025-06-20-AIPodcast-two/) of our Alice & Bob Podcast
-- [2025-06-09] Publication: Our hot/cold wallet for PoS at [SECRYPT'25](/publication/2025-06-09-HotColdWallet-Secrypt)
-- [2025-06-09] Channel: First episode of our [Alice & Bob Podcast](/portfolio/2025-06-09-AIPodcast/)
-- [2025-01-01] Publication: [ACNS'25](/publication/2025-01-01-MELCOIN)
-- [2024-12-12] Channel: [Short interview](/portfolio/2024-12-12-talk) with IOG at Eurocrypt'24
-- [2024-09-27] Travel to Cambridge: [Getting to know Newton's Apple Tree](/talks/2024-09-27-talk)
-- [2024-09-25] Talk: [CANS'24](/talks/2024-09-25-talk)
-- [2024-09-11] Talk: [8-Year Collaboration Between IO and Tokyo Yech](/talks/2024-09-11-talk)
-- [2024-07-02] Publication: [SCN'24](/publication/2024-07-02-SCN-MUSEN)
-- [2024-06-17] Publication: [CANS'24](/publication/2024-06-17-CANS24-Audit-Hydra)
-
+<h2 id="updates">Updates</h2>
+<ul>
+  <li>[2025-07-08] Channel: <a href="/portfolio/2025-07-08-AIPodcast-4/">Episode #4</a> of our Alice &amp; Bob Podcast</li>
+  <li>[2025-06-26] Channel: <a href="/portfolio/2025-06-26-AIPodcast-3/">Episode #3</a> of our Alice &amp; Bob Podcast</li>
+  <li>[2025-06-20] Channel: <a href="/portfolio/2025-06-20-AIPodcast-two/">Episode #2</a> of our Alice &amp; Bob Podcast</li>
+  <li>[2025-06-09] Publication: Our hot/cold wallet for PoS at <a href="/publication/2025-06-09-HotColdWallet-Secrypt">SECRYPT’25</a></li>
+  <li>[2025-06-09] Channel: First episode of our <a href="/portfolio/2025-06-09-AIPodcast/">Alice &amp; Bob Podcast</a></li>
+  <li>[2025-01-01] Publication: <a href="/publication/2025-01-01-MELCOIN">ACNS’25</a></li>
+  <li>[2024-12-12] Channel: <a href="/portfolio/2024-12-12-talk">Short interview</a> with IOG at Eurocrypt’24</li>
+  <li>[2024-09-27] Travel to Cambridge: <a href="/talks/2024-09-27-talk">Getting to know Newton’s Apple Tree</a></li>
+  <li>[2024-09-25] Talk: <a href="/talks/2024-09-25-talk">CANS’24</a></li>
+  <li>[2024-09-11] Talk: <a href="/talks/2024-09-11-talk">8-Year Collaboration Between IO and Tokyo Yech</a></li>
+  <li>[2024-07-02] Publication: <a href="/publication/2024-07-02-SCN-MUSEN">SCN’24</a></li>
+  <li>[2024-06-17] Publication: <a href="/publication/2024-06-17-CANS24-Audit-Hydra">CANS’24</a></li>
+</ul>
 
 <!--
 - [2024-03-14] Book contribution: [Blockchains: A Handbook on Fundamentals, Platforms and Applications](/publication/2024-03-14-PoS-Book)
@@ -92,3 +80,4 @@ Updates
 - [2019-01-25] Our group had five presentations at [SCIS 2019](/talks/2019-01-25-talk)
 - [2019-01-22]  Panel on cutting edge research on [Binance Event](/talks/2019-01-22-talk)
 - [2018-08-15] Presentation at [Crypto 2018 Rump Session](/portfolio/2018-08-15-portfolio/)-->
+:ET
