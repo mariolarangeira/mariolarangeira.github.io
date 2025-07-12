@@ -1,4 +1,4 @@
-I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
+I"�<p><img style="float:right" src="/images/curacao-fc.jpg" width="350" />
 <em>Mario Report</em> is an updated version of an <a href="http://doisgugol.blogspot.com">old blog</a> whose name has an <a href="/markdown">explanation</a>.</p>
 
 <p>In this new  version I gather content material of my professional activities at <a href="https://www.titech.ac.jp">Tokyo Tech</a> and <a href="https://iohk.io">IOHK</a>.</p>
@@ -7,6 +7,8 @@
 
 <h2 id="updates">Updates</h2>
 <ul>
+  <li>[2025-07-12] Channel: <a href="/portfolio/2025-07-11-AIPodcast-5/">Episode #5</a> of our Alice &amp; Bob Podcast- Maravedí Protocol</li>
+  <li>[2025-07-08] Teaching: <a href="/teaching/2025-07-08-CardanoDays/">Cardano Days in Tokyo</a></li>
   <li>[2025-07-08] Channel: <a href="/portfolio/2025-07-08-AIPodcast-4/">Episode #4</a> of our Alice &amp; Bob Podcast</li>
   <li>[2025-06-26] Channel: <a href="/portfolio/2025-06-26-AIPodcast-3/">Episode #3</a> of our Alice &amp; Bob Podcast</li>
   <li>[2025-06-20] Channel: <a href="/portfolio/2025-06-20-AIPodcast-two/">Episode #2</a> of our Alice &amp; Bob Podcast</li>
@@ -17,11 +19,11 @@
   <li>[2024-09-27] Travel to Cambridge: <a href="/talks/2024-09-27-talk">Getting to know Newton’s Apple Tree</a></li>
   <li>[2024-09-25] Talk: <a href="/talks/2024-09-25-talk">CANS’24</a></li>
   <li>[2024-09-11] Talk: <a href="/talks/2024-09-11-talk">8-Year Collaboration Between IO and Tokyo Yech</a></li>
-  <li>[2024-07-02] Publication: <a href="/publication/2024-07-02-SCN-MUSEN">SCN’24</a></li>
-  <li>[2024-06-17] Publication: <a href="/publication/2024-06-17-CANS24-Audit-Hydra">CANS’24</a></li>
 </ul>
 
 <!--
+- [2024-07-02] Publication: [SCN'24](/publication/2024-07-02-SCN-MUSEN)
+- [2024-06-17] Publication: [CANS'24](/publication/2024-06-17-CANS24-Audit-Hydra)
 - [2024-03-14] Book contribution: [Blockchains: A Handbook on Fundamentals, Platforms and Applications](/publication/2024-03-14-PoS-Book)
 - [2024-01-11] Publication: [ACNS'24](/publication/2024-01-11-ACNS2024-Contact-tracing)
 - [2023-12-27] Talk: [IEEE ISPA](/talks/2023-12-27-talk) and Best Paper Award
