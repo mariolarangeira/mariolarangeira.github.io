@@ -1,0 +1,11 @@
+I":<p><img src="/images/portfolio/2025-07-17/episode-six.png" alt="" /></p>
+
+<p>IOG came up with a nice layer 2 protocol named Hydra. It proposes the creation of multiparty channels, named heads. They  are basically a group of users that are expected to trade very frequently, so they go off chain in order to speed up  the issuing of transactions much beyond what the ledger allows.</p>
+
+<p>Until 2023 heads were isolated animals. Then we introduced a way that they could be merged in a bigger head. Moreover,  perhaps in a surprising way, we showed that such merging  could be done without interacting with the ledger. That is our <a href="https://eprint.iacr.org/2023/1027.pdf">Interhead Protocol</a> which is also available in the <a href="https://iohk.io/jp/research/library/papers/state-machines-across-isomorphic-layer-2-ledgers/">IOG Library</a>.</p>
+
+<p>Alice and Bob presented a <a href="https://youtu.be/jHeOvpaC5HY">deep dive</a> into the work and outlined the major features of our protocol.</p>
+
+<p>If you re interested in layer-2 protocols, please, do not miss it!</p>
+
+:ET

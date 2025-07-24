@@ -19,7 +19,8 @@ In the above tabs,  publications, talks, seminars, resume and videos, and, of co
 
 Updates
 -----
-- [2025-07-17] Channel: [Episode #6](/portfolio/2025-07-17-AIPodcast-6/) of our Alice & Bob Podcast- The Interhead Protocol Protocol
+- [2025-07-24] Channel: [Episode #7](/portfolio/2025-07-24-AIPodcast-7/) of our Alice & Bob Podcast- MUSEN
+- [2025-07-17] Channel: [Episode #6](/portfolio/2025-07-17-AIPodcast-6/) of our Alice & Bob Podcast- The Interhead Protocol
 - [2025-07-12] Channel: [Episode #5](/portfolio/2025-07-11-AIPodcast-5/) of our Alice & Bob Podcast- Maravedí Protocol
 - [2025-07-08] Teaching: [Cardano Days in Tokyo](/teaching/2025-07-08-CardanoDays/)
 - [2025-07-08] Channel: [Episode #4](/portfolio/2025-07-08-AIPodcast-4/) of our Alice & Bob Podcast
@@ -30,12 +31,11 @@ Updates
 - [2025-01-01] Publication: [ACNS'25](/publication/2025-01-01-MELCOIN)
 - [2024-12-12] Channel: [Short interview](/portfolio/2024-12-12-talk) with IOG at Eurocrypt'24
 - [2024-09-27] Travel to Cambridge: [Getting to know Newton's Apple Tree](/talks/2024-09-27-talk)
-- [2024-09-25] Talk: [CANS'24](/talks/2024-09-25-talk)
-
 
 
 
 <!--
+- [2024-09-25] Talk: [CANS'24](/talks/2024-09-25-talk)
 - [2024-09-11] Talk: [8-Year Collaboration Between IO and Tokyo Yech](/talks/2024-09-11-talk)
 - [2024-07-02] Publication: [SCN'24](/publication/2024-07-02-SCN-MUSEN)
 - [2024-06-17] Publication: [CANS'24](/publication/2024-06-17-CANS24-Audit-Hydra)
