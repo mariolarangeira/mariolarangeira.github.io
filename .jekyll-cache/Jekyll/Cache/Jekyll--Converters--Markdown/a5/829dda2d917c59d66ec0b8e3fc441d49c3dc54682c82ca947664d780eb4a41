@@ -1,8 +1,0 @@
-I"É<p>Seminar on  Open Problems for Payment Channel Protocols and</p>
-
-<p>Open discussion on potential problems for routing protocols on Payment Channel Networks: 
-*Running time
-*Adversary model, in particular, honest-but-curious</p>
-
-<p>Kurazumi has presented his first attempt to implement a construction for a privacy-preserving multi-hop payments, based on the work of Malavolta et al. (NDSS 19) on new version of ECDSA by Doerner et al. (S&amp;P 18).</p>
-:ET

@@ -1,9 +1,0 @@
-I"ì<p>Eltoo Payment Channel</p>
-
-<p>This week Max gave his seminar about payment channels. Max has been working on payment channels, and off-chain protocol in general. In particular, he worked hard in a lightweight version of virtual channels. His version of the virtual payment channels can be implemented in a blockchain systems that do not have heavy smart-contract capabilities. In particular, Bitcoin is a target for his protocol.  It is the first protocol of its kind.</p>
-
-<p>In this seminar, Max continue survey different protocols for payment channels, and presented to us the Eltoo protocol. This protocol is an alternative to Lightning and Duplex channels.</p>
-
-<p><img src="/images/teaching/2020-07-30/max-seminar.png" width="400" /></p>
-
-:ET

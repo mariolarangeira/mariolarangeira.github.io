@@ -1,6 +1,0 @@
-I"�<p>This week the International Conference on Network and System Security (NSS’23) happens and we have our work on distributed deep learning in the <a href="https://nss-socialsec2023.cyber.kent.ac.uk/program.php">program</a>. It is a joint work of me, Xiangyu Su and Keisuke Tanaka. Su is the main author and has introduced the main idea.</p>
-
-<p>Su noticed that it is possible to harvest of a  computational power from, say, of a proof of work protocol, in order to train models for machine learning. In order to do that we had to introduce new notions like “distributed proof-of-deep-learning”.</p>
-
-<p>Basically, instead of “correct hash value” as in proof-of-work, the system trains models up until a certain suitable accuracy level in the learning curve. The paper is already available <a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_7">here</a> and <a href="https://eprint.iacr.org/2023/1059">here</a>. Please take a look.</p>
-:ET

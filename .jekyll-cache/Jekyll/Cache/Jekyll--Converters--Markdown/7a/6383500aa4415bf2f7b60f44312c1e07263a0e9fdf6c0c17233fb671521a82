@@ -1,8 +1,0 @@
-I"Ù<p><img src="/images/portfolio/2025-07-24/episode-seven.png" alt="" /></p>
-
-<p>Here is our new Verifiable Random Function (VRF) <a href="https://eprint.iacr.org/2024/628.pdf">MUSEN</a> which is also available in the <a href="https://iohk.io/jp/research/library/papers/musen-aggregatable-key-evolving-verifiable-random-functions-and-applications/">IOG Library</a>.</p>
-
-<p>We proposed a novel cryptographic primitive with some very interesting properties, and we also outline where it can be used. Alice and Bob presented a fairly didactical <a href="https://youtu.be/25xK1iHP_uQ">discussion about MUSEN</a>.</p>
-
-<p>This is a somewhat different work from previous ones in the podcast, because it focuses in a building block.</p>
-:ET
