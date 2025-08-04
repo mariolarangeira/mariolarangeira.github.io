@@ -1,4 +1,4 @@
-I"â
+I"då
 <p>A list of all the posts and pages found on the site. For you robots out there is an <a href="http://localhost:4000/sitemap.xml">XML version</a> available for digesting as well.</p>
 
 <h2>Pages</h2>
@@ -1418,7 +1418,7 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/portfolio/2025-07-17-AIPodcast-6%20copy/" rel="permalink">(Alice &amp; Bob Podcast #6): The Interhead Protocol
+        <a href="http://localhost:4000/portfolio/2025-07-17-AIPodcast-6/" rel="permalink">(Alice &amp; Bob Podcast #6): The Interhead Protocol
 </a>
       
     </h2>
@@ -1445,7 +1445,7 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
 
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="http://localhost:4000/portfolio/2025-07-17-AIPodcast-6/" rel="permalink">(Alice &amp; Bob Podcast #6): The Interhead Protocol
+        <a href="http://localhost:4000/portfolio/2025-07-24-AIPodcast-7%20copy/" rel="permalink">(Alice &amp; Bob Podcast #7): The MUSEN VRF
 </a>
       
     </h2>
@@ -1453,11 +1453,38 @@ Rafael Dowsley came from Denmark and Christian Lindgren came from Osaka.</p>
     
 
         
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-07-17T00:00:00+00:00">July 17, 2025</time></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-07-24T00:00:00+00:00">July 24, 2025</time></p>
         
 
     
-    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #6 on merging Hydra heads with Interhead.<br /><img src="/images/portfolio/2025-07-17/episode-six.png" width="500" /></p>
+    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #7 on the new VRF MUSEN with aggregatable proofs and key-evolving keys.<br /><img src="/images/portfolio/2025-07-24/episode-seven.png" width="500" /></p>
+</p>
+    
+    
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/portfolio/2025-07-24-AIPodcast-7/" rel="permalink">(Alice &amp; Bob Podcast #7): The MUSEN VRF
+</a>
+      
+    </h2>
+    
+    
+
+        
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2025-07-24T00:00:00+00:00">July 24, 2025</time></p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Alice &amp; Bob Podcast #7 on the new VRF MUSEN with aggregatable proofs and key-evolving keys.<br /><img src="/images/portfolio/2025-07-24/episode-seven.png" width="500" /></p>
 </p>
     
     
