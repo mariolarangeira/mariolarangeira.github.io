@@ -1,0 +1,11 @@
+I"ã<p><img src="/images/portfolio/2025-08-08/episode-nine.png" width="500" /></p>
+
+<p>Here is our  protocol named  <a href="https://eprint.iacr.org/2020/1313.pdf">Payment Trees</a> which is also available in the <a href="https://iohk.io/jp/research/library/papers/payment-trees-low-collateral-payments-for-payment-channel-networks/">IOG Library</a>.</p>
+
+<p>Payment Trees is a way to close channels in a more efficient way, without the the need of smart contract. In comparison, the Sprites protocol rely on smart contracts. Instead, our protocol makes use of the UTxO Model properties.</p>
+
+<p>Again, Alice and Bobâ€™s discussion is very didactical and it is available <a href="https://youtu.be/xz6xarT3spY">here</a>.</p>
+
+<p>Have fun!</p>
+
+:ET
